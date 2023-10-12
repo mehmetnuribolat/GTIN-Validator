@@ -19,6 +19,10 @@ npm install
 ### Execute application on development mode:
 
 ```
+npm run build
+```
+
+```
 npm run start
 ```
 
