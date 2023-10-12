@@ -27,4 +27,4 @@ npm run start
 
 
 ### References
-- [GS1](https://www.gs1.org/services/how-calculate-check-digit-manually)
+- [GS1 - How to calculate a check digit manually](https://www.gs1.org/services/how-calculate-check-digit-manually)
