@@ -29,6 +29,8 @@ npm run start
 - Application will start on given port by lite-server.
 - Your browser will be open automatically. Then you can check the console logs to see the results on browser.
 
+### Resources
+- [GS1 - How to calculate a check digit manually](https://www.gs1.org/services/how-calculate-check-digit-manually)
 
 ## 🤝 Contributing
 
