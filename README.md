@@ -1,7 +1,7 @@
 # GTIN-Validator
  Sample code for GTIN Barcode Validation using TypeScript
-
-![gtin-validation](https://github.com/mehmetnuribolat/GTIN-Validator/assets/145845943/14b8a8fa-54ef-4996-a034-7474bb87d930)
+ 
+![gtin-validation](https://github.com/mehmetnuribolat/GTIN-Validator/assets/145845943/bfd9d87a-460d-4517-9eec-42f1a1c682d0)
 
 ## 💻 Tech Stack
 
